@@ -670,37 +670,6 @@ mongosh
 
 ---
 
-## 📞 Support & Contact
-
-For questions, issues, or discussions:
-- Post in the **Kyureeus/SSN College WhatsApp group**
-- Check Cloudflare and MongoDB documentation
-- Review troubleshooting section above
-- Consult with classmates and instructors
-
----
-
-## ⚠️ Important Pre-Submission Checklist
-
-Before submitting your assignment:
-
-- [ ] Replace `[Your Name]` with your actual name
-- [ ] Replace `[Your Roll Number]` with your actual roll number
-- [ ] Test the pipeline at least 3 times successfully
-- [ ] Verify all 3 collections have data in MongoDB
-- [ ] Ensure `.env` is NOT committed to Git
-- [ ] Include name and roll number in commit messages
-- [ ] All dependencies in `requirements.txt` are correct
-- [ ] README is comprehensive and accurate
-- [ ] Code is well-commented and clean
-
-### Git Commit Message Format:
-```
-Add Cloudflare Multi-Endpoint ETL connector - [Your Name] [Roll Number]
-```
-
----
-
 ## 📄 License
 
 This project is created for educational purposes as part of the SSN CSE Software Architecture course under the Kyureeus EdTech program.
